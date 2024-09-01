@@ -12,13 +12,20 @@ h2 {
     display: inline-block;
     background-color: #D3D3D3;
     margin: 10px;
+    padding: 8px;
+    vertical-align: top;
 }
 
 .freezer {
     display: inline-block;
     background-color: #D3D3D3;
     margin: 10px;
+    padding: 8px;
+    vertical-align: top;
 }
 img {
+    display: inline-block;
     width: 225px;
+    vertical-align: top;
+    border: 1px solid black;
 }
