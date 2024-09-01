@@ -11,9 +11,14 @@ h2 {
 .pantry {
     display: inline-block;
     background-color: #D3D3D3;
+    margin: 10px;
 }
 
 .freezer {
     display: inline-block;
     background-color: #D3D3D3;
+    margin: 10px;
+}
+img {
+    width: 225px;
 }
